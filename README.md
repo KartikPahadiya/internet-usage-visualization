@@ -109,7 +109,7 @@ internet-usage-visualization/
 ### Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/your-username/internet-usage-visualization.git
+git clone https://github.com/KartikPahadiya/internet-usage-visualization.git
 ```
 
 ---
@@ -194,33 +194,3 @@ This dashboard helps analyze:
 
 ---
 
-## 📷 Dashboard Preview
-
-Add screenshots here.
-
-Example:
-
-```md
-![Dashboard](images/dashboard.png)
-```
-
----
-
-## 🔮 Future Improvements
-
-- Real-time API Integration
-- Live Dashboard Updates
-- Predictive Analytics
-- Machine Learning Based Trend Forecasting
-
----
-
-## 👨‍💻 Author
-
-**Kartik Pahadiya**
-
-GitHub: https://github.com/KartikPahadiya
-
----
-
-⭐ If you found this project useful, consider giving it a **Star**.
